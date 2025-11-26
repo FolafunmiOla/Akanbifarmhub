@@ -40,12 +40,12 @@ function Hero() {
             {/* Stats */}
             <div className="grid grid-cols-3 gap-4 sm:gap-6 mt-8 sm:mt-12 max-w-lg mx-auto md:mx-0">
               <div className="text-center md:text-left">
-                <div className="text-2xl sm:text-3xl lg:text-4xl font-bold text-primary-600">500+</div>
+                <div className="text-2xl sm:text-3xl lg:text-4xl font-bold text-primary-600">100+</div>
                 <div className="text-xs sm:text-sm text-gray-600 mt-1">Happy Customers</div>
               </div>
               <div className="text-center md:text-left">
-                <div className="text-2xl sm:text-3xl lg:text-4xl font-bold text-primary-600">50+</div>
-                <div className="text-xs sm:text-sm text-gray-600 mt-1">Farm Products</div>
+                <div className="text-2xl sm:text-3xl lg:text-4xl font-bold text-primary-600">60+</div>
+                <div className="text-xs sm:text-sm text-gray-600 mt-1">Products</div>
               </div>
               <div className="text-center md:text-left">
                 <div className="text-2xl sm:text-3xl lg:text-4xl font-bold text-primary-600">100%</div>
